@@ -14,7 +14,18 @@ npm i modern-ui-react-reusable-components
 ```
 import {ButtonWithSpinner} from 'modern-ui-react-reusable-components/components'
 ```
+##using component in your code
+```
+ <ButtonWithSpinner
+              styles={""}
+              title={""}
+              clicked={}
+              onClick={}
+              type={""}
+ />
+```
 
-## Visit GitHub Repository
+## Visit GitHub Repository:
+https://github.com/ranjithmano13/modern-ui-react-reusuable-components
 
 # modern-ui-react-reusuable-components
